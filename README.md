@@ -5,7 +5,7 @@ Currently completing Front-End & .NET Web Development program at IT Academy STEP
 
 ## Resume
 You can view or download my resume here:  
-[Resume PDF](Nino_L_Resume__.pdf)
+[Resume PDF](Nino_L_Resume_.pdf)
 
 ## Projects
 - **MarketCore** | .NET 8, ASP.NET Core, Angular 21, TypeScript  
